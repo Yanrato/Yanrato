@@ -1,6 +1,6 @@
 # :sparkler: E aí, eu sou Yan Ferreira!
 
-![mew](C:\Users\MASTER\Desktop\Yanrato\assets\mew.webp)
+![mew](assets\mew.webp)
 
 > 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas
 >
