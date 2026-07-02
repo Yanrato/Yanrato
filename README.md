@@ -1,6 +1,4 @@
-# :sparkler: E aí, eu sou Yan Ferreira!
-
-![celebi](assets\celebi-pokemon.gif)
+# :sparkler: E aí, eu sou Yan Ferreira!|![celebi](assets\celebi-pokemon.gif)
 
 > 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas
 >
