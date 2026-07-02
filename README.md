@@ -1,12 +1,16 @@
 # :sparkler: E aí, eu sou Yan Ferreira!
 
-![Mew](assets/mew.gif)
+![mew](C:\Users\MASTER\Desktop\Yanrato\assets\mew.webp)
 
 > 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas
 >
 > ☕ Atualmente focado em Java e Spring Boot
 >
-> 🚀 Apaixonado por tecnologia, desenvolvimento e pelo universo geek.
+> 🚀 Apaixonado por tecnologia e desenvolvimento
+>
+> :heart: Sou muito nerd.
+>
+> ☕ Adoro café
 
 ---
 
@@ -20,7 +24,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java** e **Spring Boot**, 
 
 Também já desenvolvi projetos utilizando **Python**, **JavaScript**, **React**, **Next.js**, **TypeScript** e **Tailwind CSS**.
 
-> *"Aquilo que se faz por amor está sempre além do bem e do mal." *Além do Bem e do Mal- Friedrich Nietzsche*
+> "Aquilo que se faz por amor está sempre além do bem e do mal." *Além do Bem e do Mal- Friedrich Nietzsche*
 
 ---
 
@@ -56,9 +60,9 @@ Também já desenvolvi projetos utilizando **Python**, **JavaScript**, **React**
 
 # 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yanrato&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yanrato&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanrato&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yanrato&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yanrato&theme=tokyonight&hide_border=true)
 
@@ -84,6 +88,6 @@ https://www.instagram.com/_y.a.n.z.i.t.o_/
 
 ![Hollow Knight](assets/hollow-knight-silksong.gif)
 
-> *"Every great journey begins with a single commit."*
+> **"No meio do inverno, descobri que havia, dentro de mim, um verão invencível."* Albert Camus*
 
 ⭐ Obrigado por visitar meu perfil!
