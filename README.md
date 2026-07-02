@@ -1,6 +1,6 @@
 # :sparkler: E aí, eu sou Yan Ferreira!
 
-![mew](assets\mew.webp)
+![mew](assets\mew.gif)
 
 > 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas
 >
